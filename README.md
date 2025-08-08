@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/danish-dhiahurrahman-438346362/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="  https://www.instagram.com/masdan1sh?igsh=MWMxcDI2djFoZjNkdQ==&utm_source=ig_contact_invite  " target="_blank">
+  <a href="  https://www.instagram.com/masdan1sh  " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>

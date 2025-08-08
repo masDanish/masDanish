@@ -37,6 +37,23 @@
 </div>
 
 ###
+
+<h2 align="left">👍Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/danish-dhiahurrahman-438346362/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href=" https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=moqp0wm " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+###
 <h2 align="left">My Activity</h2>
 
 ###

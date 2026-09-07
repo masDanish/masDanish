@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Danish Dhiahurrahman.<br>I'am a Web Engineer and Robotic Engineer</p>
+<p align="left">My name is Danish Dhiahurrahman.<br>I'am a AI and Robotic Engineer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I've been learning since Senior High School<br>📚 I'm currently learning web development and IOT<br>🎯 Goals: I can make web and Robotic with Arduino</p>
+<p align="left">✨ I've been learning since Senior High School<br>📚 I'm currently learning web development and IOT<br>🎯 Goals: Work in Ai Company</p>
 
 ###
 

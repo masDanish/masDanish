@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I've been learning since Senior High School<br>📚 I'm currently learning web development and IOT<br>🎯 Goals: Work in Ai Company</p>
+<p align="left">✨ I've been learning since Senior High School<br>📚 I'm currently learning web development and AI Engineering<br>🎯 Goals: Work in Ai Company</p>
 
 ###
 
